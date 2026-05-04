@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean
-- 👀 I’m interested in Python and C#
-- 🌱 I’m currently learning C#, Python and Cloud Computing
+- 👀 I’m interested in Python, Bash and AI 
+- 🌱 I’m currently learning Bash, Python and Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
